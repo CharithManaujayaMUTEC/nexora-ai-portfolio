@@ -57,3 +57,5 @@ The site is intentionally dependency-light so it can be pushed directly to GitHu
 - Responsive mobile navigation
 - Scroll reveal animations
 - Accessible buttons and navigation
+
+#
